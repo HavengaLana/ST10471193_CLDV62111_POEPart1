@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9BB81F-6F2F-41A2-91C3-5E89EDA4C2AA}|POEPart1.csproj|c:\\users\\haven\\onedrive - advtech ltd\\desktop\\st10471193_cldv62111_poepart1\\poepart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF9BB81F-6F2F-41A2-91C3-5E89EDA4C2AA}|POEPart1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T17:42:42.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
