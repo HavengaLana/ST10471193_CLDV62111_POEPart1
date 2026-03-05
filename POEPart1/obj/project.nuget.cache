@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/TVnP2l5S0=",
+  "dgSpecHash": "EnAjNlOuOgA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
+  "projectFilePath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haven\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\haven\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

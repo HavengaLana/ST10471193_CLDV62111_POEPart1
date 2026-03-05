@@ -6130,11 +6130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
+      "projectUniqueName": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
       "projectName": "POEPart1",
-      "projectPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
+      "projectPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\POEPart1.csproj",
       "packagesPath": "C:\\Users\\haven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\POEPart1\\obj\\",
+      "outputPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

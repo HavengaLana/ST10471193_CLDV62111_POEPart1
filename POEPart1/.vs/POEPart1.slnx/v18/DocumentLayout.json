@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|c:\\users\\haven\\onedrive - advtech ltd\\desktop\\st10471193_cldv62111_poepart1\\st10471193_cldv62111_poepart1\\poepart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|c:\\users\\haven\\onedrive - advtech ltd\\desktop\\st10471193_cldv62111_poepart1\\st10471193_cldv62111_poepart1\\poepart1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|c:\\users\\haven\\onedrive - advtech ltd\\desktop\\st10471193_cldv62111_poepart1\\st10471193_cldv62111_poepart1\\poepart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|c:\\users\\haven\\onedrive - advtech ltd\\desktop\\st10471193_cldv62111_poepart1\\st10471193_cldv62111_poepart1\\poepart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC7012F7-DBAB-2BFF-3540-9E10F90F068B}|POEPart1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-28T17:42:42.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T09:20:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T08:07:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\haven\\OneDrive - ADvTECH Ltd\\Desktop\\ST10471193_CLDV62111_POEPart1\\ST10471193_CLDV62111_POEPart1\\POEPart1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-05T09:16:20.644Z",
               "EditorCaption": ""
             }
           ]
