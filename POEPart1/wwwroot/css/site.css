@@ -38,3 +38,11 @@ body {
 .hero-title {
     color: #000000;
 }
+/* Custom color for database records */
+.db-data-color {
+    color: #ADD8E6;
+}
+/* Optional: change color when hovering over the data */
+.db-data-color:hover {
+     color: #000000;
+}
